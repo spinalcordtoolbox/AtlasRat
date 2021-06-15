@@ -1,0 +1,13 @@
+
+Version: 4
+- Edited Paxinos Atlas by merging LatC and LSp tracts at levels C1-C3, to match the number  of tracts in other levels.
+- Slight changes in registration parameters
+
+Version: 3
+- Modified Paxinos Atlas to have soft labels scaled between 0-1 (versus binary).
+
+Version: 2
+- Added Paxinos Atlas
+
+Version: 0
+- First version
