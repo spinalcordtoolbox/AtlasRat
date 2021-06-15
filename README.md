@@ -1,4 +1,4 @@
-# AtlasRat
+# atlas-rat
 Atlas of the rat spinal cord based on electron microscopy images.
 
 Nifti volumes containing metrics obtained from scanning electron microscopy. Note that the atlas is symmetrized (left = right). One slice corresponds to one spinal level. For more information on how this atlas was generated, please see: https://github.com/neuropoly/atlas-rat.
